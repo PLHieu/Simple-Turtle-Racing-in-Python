@@ -1,6 +1,7 @@
 # Turtle Racing in Python 
 Imagine you are have a group of turtle are racing against each other, your mission is guessing the winner and bet monney on him  
 ## How to play
+run main.py
 Chooose your partner (the racer that you think he will win), enter your name, enter your money (By defaut you were given 1000 gold), click start and wait until your partner win
 ### Item
 There are 5 type of items on the road  
