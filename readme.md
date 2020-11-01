@@ -7,7 +7,7 @@ There are 5 type of items on the road
 Speed: increase speed <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/picture/spellicon/speed.png" alt=""  />  
 Stop: must stop in about 2s <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/picture/spellicon/stop.png" alt=""  />  
 Turnback: must turn back a specific distance <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/picture/spellicon/turnback.png" alt=""  />  
-Hole: Very lucky if see this item, racer will teleport straight to the goal <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/picture/hole/h1.png" alt="" " />  
+Hole: Very lucky if see this item, racer will teleport straight to the goal <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/picture/hole/h1.png" alt="" />  
 
 ### Map 
 There are 3 type of map:  
@@ -25,12 +25,12 @@ Future_Car <img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/bl
 
 ### Change Road Length
 Levels of Road: 2000m, 2500m, 3000m or Customize  
-<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/road.jpg" alt="" />
+<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/road.jpg" alt=""  width="600px"  />
 
 ### Change resolution 
 Small-windows | BigFullScreen  
-<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play1.jpg" alt="" width="200px" height="" />
-<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play2.jpg" alt="" width="200px" height="" />
-<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play3.jpg" alt="" width="200px" height="" />
-<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play4.jpg" alt="" width="200px" height="" />
+<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play1.jpg" alt="" width="600px" height="" />
+<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play2.jpg" alt="" width="600px" height="" />
+<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play3.jpg" alt="" width="600px" height="" />
+<img src="https://github.com/PLHieu/Simple-Turtle-Racing-in-Python/blob/master/demogame/play4.jpg" alt="" width="600px" height="" />
 
